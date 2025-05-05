@@ -1,0 +1,10 @@
+Email,Name,Pronouns,Institution,Type,Talk type,Title,Abstract,Category,Total,Required Housing Costs,Requested Housing Costs,Requested Travel,No requirements,# Talks (not poster),# Talks (inc poster),"# talks (inc poster, prio postdoc)","# talks (inc poster, prioritize postdoc&grad)",Mean Score,# talks accepted,# talks accepted (no travel request),# posters (not talk & no travel),# talks accepted (no travel) & postdoc/grad,# talks accepted (no travel) & undergrad,Email Type,,
+,,,,,,,,,6,3,5,2,1,1,4,1,2,,3,2,1,1,1,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,Grad threshold,3.7
+eresorganizers@gmail.com,ERES Organizers,he/him,Penn State University,Graduate student (3+ year),Talk,abc,def,cat,None,0,0,0,1,1,1,1,1,X,1,1,0,1,0,NO_NEED_ORAL,Undergrad threshold,3
+eresorganizers@gmail.com,ERES Organizers,he/him,Penn State University,Undergraduate studenst,Talk/Poster,abc,def,cat,Housing~,0,1,0,0,0,1,0,0,4,1,1,0,0,1,HOUSING_ORAL,,
+eresorganizers@gmail.com,ERES Organizers,he/him,Penn State University,Undergraduate studenst,N/A,abc,def,cat,Housing~,0,1,0,0,0,0,0,0,X,0,0,0,0,0,HOUSING_NONE,,
+eresorganizers@gmail.com,ERES Organizers,he/him,Penn State University,Graduate student (1st/2nd year),N/A,abc,def,cat,Housing! & Travel!,1,1,1,0,0,0,0,0,X,0,0,0,0,0,NEED_TRAVEL_POSTER,,
+eresorganizers@gmail.com,ERES Organizers,he/him,Penn State University,Undergraduate studenst,Talk/Poster,abc,def,cat,Housing!,1,1,0,0,0,1,0,0,1.333333333,0,0,1,0,0,HOUSING_POSTER,,
+eresorganizers@gmail.com,ERES Organizers,he/him,Penn State University,Graduate student (1st/2nd year),Talk/Poster,abc,def,cat,Housing! & Travel!,1,1,1,0,0,1,0,1,4.333333333,1,0,0,0,0,NEED_TRAVEL_TALK,,
+eresorganizers@gmail.com,ERES Organizers,he/him,Penn State University,Graduate student (3+ year),Poster,abc,def,cat,None,0,0,0,1,0,0,0,0,X,0,0,1,0,0,NO_NEED_POSTER,,
